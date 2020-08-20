@@ -1,2 +1,2 @@
 language = "node.js"
-run = "node implementingArray.js"
+run = "node reverseAString.js"
